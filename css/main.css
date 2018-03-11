@@ -1,0 +1,46 @@
+* {
+     -moz-box-sizing: border-box; /* Firexfox */
+
+     -webkit-box-sizing: border-box; /* Safari/Chrome/iOS/Android */
+
+     box-sizing: border-box; /* IE */
+
+     text-align: center;
+
+     outline: none;
+
+     font-size: 20px;
+
+     font-weight: bold;
+
+     font-family: 'Shadows Into Light', cursive;
+}
+
+body{
+  background-color: #209F1E;
+}
+
+header{
+  height: 400px;
+  width: 100%;
+  background-image: url(../rick&morty.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+
+}
+
+section{
+  width: 100%;
+  height:
+}
+
+button{
+  margin-top: 5px;
+  background-color: #263236;
+  color: #A3E6BE;
+  border: 1px solid #263236;
+  -webkit-border-radius: 40px;
+-moz-border-radius: 40px;
+border-radius: 40px;
+font-size: 15px;
+}

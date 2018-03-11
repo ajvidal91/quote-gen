@@ -1,8 +1,8 @@
 # My Awesome Project
 This is an app in which you click a button and a quote will appear as well, as a photo
 of a Rick & Morty character to go along with the quote.
-This is not the final product, because I still have to style it with CSS.
 
+![Rick & Morty](/rick&mortyapi.png)
 
 
 ## How It's Made:
